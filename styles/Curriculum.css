@@ -1,7 +1,64 @@
 #Left_Information {
-    background-color:bisque
+    width: 50%;
+    float: left;
+    background-color:bisque    
 }
 
 #Right_Information {
+    width: 50%;
+    float: right;
     background-color:gainsboro
+}
+
+IMG {
+    position: relative;
+    left: 50%;
+}
+
+H4 {
+    text-align: center
+}
+
+H4, H3 {
+    margin-bottom: 0;
+    clear: both
+}
+
+#Text_Information {
+    width: 50%;
+    float: left
+}
+
+#Photo {
+    width: 50%;
+    float: right
+}
+
+TABLE, TD {
+    border: 1px solid salmon
+}
+
+#Odd {
+    background-color: darksalmon
+}
+
+#Pair {
+    background-color: lightsalmon
+}
+
+#Headboard_Line {
+    height: 5px;
+    background-color: darkred
+}
+
+#Personal_Information_Line {
+    width: 60%;
+    height: 3px;
+    background-color: gray
+}
+
+#Line {
+    height: 2px;
+    background-color: gray;
+    margin: 1px
 }
