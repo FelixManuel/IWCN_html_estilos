@@ -1,0 +1,11 @@
+TABLE, TD {
+    border: 1px solid salmon
+}
+
+#Odd {
+    background-color: darksalmon
+}
+
+#Pair {
+    background-color: lightsalmon
+}

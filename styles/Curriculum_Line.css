@@ -1,0 +1,16 @@
+#Headboard_Line {
+    height: 5px;
+    background-color: darkred
+}
+
+#Personal_Information_Line {
+    width: 60%;
+    height: 3px;
+    background-color: gray
+}
+
+#Line {
+    height: 2px;
+    background-color: gray;
+    margin: 1px
+}
